@@ -1,0 +1,60 @@
+Azores:
+    latitude: 37.7412
+    longitude: -25.6756
+    utc_offset: 0
+    dst: true
+Bermuda:
+    latitude: 32.3078
+    longitude: -64.7505
+    utc_offset: -3
+    dst: true
+Canary:
+    latitude: 28.2916
+    longitude: -16.6291
+    utc_offset: 0
+    dst: true
+Cape_Verde:
+    latitude: 16.5388
+    longitude: -23.0418
+    utc_offset: -1
+    dst: false
+Faeroe:
+    latitude: 62.0076
+    longitude: -6.7903
+    utc_offset: 0
+    dst: true
+Faroe:
+    latitude: 62.0076
+    longitude: -6.7903
+    utc_offset: 0
+    dst: true
+Jan_Mayen:
+    latitude: 71.0
+    longitude: 8.0
+    utc_offset: 1
+    dst: true
+Madeira:
+    latitude: 32.7607
+    longitude: -16.9595
+    utc_offset: 0
+    dst: true
+Reykjavik:
+    latitude: 64.1355
+    longitude: -21.8954
+    utc_offset: 0
+    dst: false
+South_Georgia:
+    latitude: -54.4296
+    longitude: -36.5879
+    utc_offset: -2
+    dst: false
+St_Helena:
+    latitude: -15.9650
+    longitude: -5.7089
+    utc_offset: 0
+    dst: false
+Stanley:
+    latitude: -51.6941
+    longitude: -57.8514
+    utc_offset: -3
+    dst: false

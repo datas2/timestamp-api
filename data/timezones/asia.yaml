@@ -1,0 +1,485 @@
+Aden:
+    latitude: 12.7855
+    longitude: 45.0237
+    utc_offset: 3
+    dst: false
+Almaty:
+    latitude: 43.2220
+    longitude: 76.8512
+    utc_offset: 6
+    dst: false
+Amman:
+    latitude: 31.9539
+    longitude: 35.9106
+    utc_offset: 2
+    dst: false
+Anadyr:
+    latitude: 64.7333
+    longitude: 177.5167
+    utc_offset: 12
+    dst: false
+Aqtau:
+    latitude: 43.6500
+    longitude: 51.2000
+    utc_offset: 5
+    dst: false
+Aqtobe:
+    latitude: 50.2833
+    longitude: 57.1667
+    utc_offset: 5
+    dst: false
+Ashgabat:
+    latitude: 37.9500
+    longitude: 58.3833
+    utc_offset: 5
+    dst: false
+Atyrau:
+    latitude: 47.1167
+    longitude: 51.8833
+    utc_offset: 5
+    dst: false
+Baghdad:
+    latitude: 33.3152
+    longitude: 44.3661
+    utc_offset: 3
+    dst: false
+Bahrain:
+    latitude: 26.0667
+    longitude: 50.5577
+    utc_offset: 3
+    dst: false
+Baku:
+    latitude: 40.4093
+    longitude: 49.8671
+    utc_offset: 4
+    dst: false
+Bangkok:
+    latitude: 13.7563
+    longitude: 100.5018
+    utc_offset: 7
+    dst: false
+Barnaul:
+    latitude: 53.3476
+    longitude: 83.7780
+    utc_offset: 7
+    dst: false
+Beirut:
+    latitude: 33.8938
+    longitude: 35.5018
+    utc_offset: 2
+    dst: true
+Bishkek:
+    latitude: 42.8746
+    longitude: 74.5698
+    utc_offset: 6
+    dst: false
+Brunei:
+    latitude: 4.9031
+    longitude: 114.9398
+    utc_offset: 8
+    dst: false
+Calcutta:
+    latitude: 22.5726
+    longitude: 88.3639
+    utc_offset: 5.5
+    dst: false
+Chita:
+    latitude: 52.0333
+    longitude: 113.5000
+    utc_offset: 9
+    dst: false
+Choibalsan:
+    latitude: 48.0667
+    longitude: 114.5000
+    utc_offset: 8
+    dst: false
+Chongqing:
+    latitude: 29.4316
+    longitude: 106.9123
+    utc_offset: 8
+    dst: false
+Chungking: # deprecated
+    latitude: 29.4316
+    longitude: 106.9123
+    utc_offset: 8
+    dst: false
+Colombo:
+    latitude: 6.9271
+    longitude: 79.8612
+    utc_offset: 5.5
+    dst: false
+Damascus:
+    latitude: 33.5138
+    longitude: 36.2765
+    utc_offset: 2
+    dst: true
+Dhaka:
+    latitude: 23.8103
+    longitude: 90.4125
+    utc_offset: 6
+    dst: false
+Dili:
+    latitude: -8.5569
+    longitude: 125.5603
+    utc_offset: 9
+    dst: false
+Dubai:
+    latitude: 25.2048
+    longitude: 55.2708
+    utc_offset: 4
+    dst: false
+Dushanbe:
+    latitude: 38.5598
+    longitude: 68.7870
+    utc_offset: 5
+    dst: false
+Famagusta:
+    latitude: 35.1167
+    longitude: 33.9167
+    utc_offset: 3
+    dst: true
+Gaza:
+    latitude: 31.5016
+    longitude: 34.4669
+    utc_offset: 2
+    dst: true
+Harbin:
+    latitude: 45.8038
+    longitude: 126.5349
+    utc_offset: 8
+    dst: false
+Hebron:
+    latitude: 31.5326
+    longitude: 35.0998
+    utc_offset: 2
+    dst: true
+Ho_Chi_Minh:
+    latitude: 10.7769
+    longitude: 106.6951
+    utc_offset: 7
+    dst: false
+Hong_Kong:
+    latitude: 22.3193
+    longitude: 114.1694
+    utc_offset: 8
+    dst: false
+Hovd:
+    latitude: 48.0000
+    longitude: 91.6333
+    utc_offset: 7
+    dst: false
+Irkutsk:
+    latitude: 52.2833
+    longitude: 104.2833
+    utc_offset: 8
+    dst: false
+Istanbul:
+    latitude: 41.0082
+    longitude: 28.9784
+    utc_offset: 3
+    dst: true
+Jakarta:
+    latitude: -6.2088
+    longitude: 106.8456
+    utc_offset: 7
+    dst: false
+Jayapura:
+    latitude: -2.5333
+    longitude: 140.7167
+    utc_offset: 9
+    dst: false
+Jerusalem:
+    latitude: 31.7683
+    longitude: 35.2137
+    utc_offset: 2
+    dst: true
+Kabul:
+    latitude: 34.5553
+    longitude: 69.2075
+    utc_offset: 4.5
+    dst: false
+Kamchatka:
+    latitude: 56.0000
+    longitude: 160.5000
+    utc_offset: 12
+    dst: false
+Karachi:
+    latitude: 24.8607
+    longitude: 67.0011
+    utc_offset: 5
+    dst: false
+Kashgar:
+    latitude: 39.4704
+    longitude: 75.9898
+    utc_offset: 6
+    dst: false
+Kathmandu:
+    latitude: 27.7172
+    longitude: 85.3240
+    utc_offset: 5.75
+    dst: false
+Khandyga:
+    latitude: 62.6500
+    longitude: 142.7500
+    utc_offset: 10
+    dst: false
+Kolkata: # deprecated
+    latitude: 22.5726
+    longitude: 88.3639
+    utc_offset: 5.5
+    dst: false
+Krasnoyarsk:
+    latitude: 56.0097
+    longitude: 92.7917
+    utc_offset: 7
+    dst: false
+Kuala_Lumpur:
+    latitude: 3.1390
+    longitude: 101.6869
+    utc_offset: 8
+    dst: false
+Kuching:
+    latitude: 1.5533
+    longitude: 110.3593
+    utc_offset: 8
+    dst: false
+Kuwait:
+    latitude: 29.3759
+    longitude: 47.9774
+    utc_offset: 3
+    dst: false
+Macau:
+    latitude: 22.1987
+    longitude: 113.5439
+    utc_offset: 8
+    dst: false
+Magadan:
+    latitude: 59.5667
+    longitude: 150.8000
+    utc_offset: 11
+    dst: false
+Makassar:
+    latitude: -5.1477
+    longitude: 119.4327
+    utc_offset: 8
+    dst: false
+Manila:
+    latitude: 14.5995
+    longitude: 120.9842
+    utc_offset: 8
+    dst: false
+Muscat:
+    latitude: 23.5880
+    longitude: 58.3829
+    utc_offset: 4
+    dst: false
+Nicosia:
+    latitude: 35.1856
+    longitude: 33.3823
+    utc_offset: 2
+    dst: true
+Novokuznetsk:
+    latitude: 53.7500
+    longitude: 87.1167
+    utc_offset: 7
+    dst: false
+Novosibirsk:
+    latitude: 55.0084
+    longitude: 82.9357
+    utc_offset: 7
+    dst: false
+Omsk:
+    latitude: 54.9924
+    longitude: 73.3686
+    utc_offset: 6
+    dst: false
+Oral:
+    latitude: 51.2333
+    longitude: 51.3667
+    utc_offset: 5
+    dst: false
+Phnom_Penh:
+    latitude: 11.5564
+    longitude: 104.9282
+    utc_offset: 7
+    dst: false
+Pontianak:
+    latitude: -0.0333
+    longitude: 109.3333
+    utc_offset: 7
+    dst: false
+Pyongyang:
+    latitude: 39.0392
+    longitude: 125.7625
+    utc_offset: 8.5
+    dst: false
+Qatar:
+    latitude: 25.2854
+    longitude: 51.5310
+    utc_offset: 3
+    dst: false
+Qostanay:
+    latitude: 53.2167
+    longitude: 63.6333
+    utc_offset: 6
+    dst: false
+Qyzylorda:
+    latitude: 44.8500
+    longitude: 65.4833
+    utc_offset: 6
+    dst: false
+Rangoon:
+    latitude: 16.8409
+    longitude: 96.1735
+    utc_offset: 6.5
+    dst: false
+Riyadh:
+    latitude: 24.7136
+    longitude: 46.6753
+    utc_offset: 3
+    dst: false
+Saigon: # deprecated
+    latitude: 10.7769
+    longitude: 106.6951
+    utc_offset: 7
+    dst: false
+Sakhalin:
+    latitude: 46.9667
+    longitude: 142.7333
+    utc_offset: 11
+    dst: false
+Samarkand:
+    latitude: 39.6542
+    longitude: 66.9597
+    utc_offset: 5
+    dst: false
+Seoul:
+    latitude: 37.5665
+    longitude: 126.9780
+    utc_offset: 9
+    dst: false
+Shanghai:
+    latitude: 31.2304
+    longitude: 121.4737
+    utc_offset: 8
+    dst: false
+Singapore:
+    latitude: 1.3521
+    longitude: 103.8198
+    utc_offset: 8
+    dst: false
+Srednekolymsk:
+    latitude: 67.4667
+    longitude: 153.7000
+    utc_offset: 11
+    dst: false
+Taipei:
+    latitude: 25.0330
+    longitude: 121.5654
+    utc_offset: 8
+    dst: false
+Tashkent:
+    latitude: 41.2995
+    longitude: 69.2401
+    utc_offset: 5
+    dst: false
+Tbilisi:
+    latitude: 41.7151
+    longitude: 44.8271
+    utc_offset: 4
+    dst: false
+Tehran:
+    latitude: 35.6892
+    longitude: 51.3890
+    utc_offset: 3.5
+    dst: true
+Tel_Aviv:
+    latitude: 32.0853
+    longitude: 34.7818
+    utc_offset: 2
+    dst: true
+Thimphu:
+    latitude: 27.4728
+    longitude: 89.6390
+    utc_offset: 6
+    dst: false
+Tokyo:
+    latitude: 35.6762
+    longitude: 139.6503
+    utc_offset: 9
+    dst: false
+Tomsk:
+    latitude: 56.5010
+    longitude: 84.9924
+    utc_offset: 7
+    dst: false
+Ujung_Pandang: # deprecated
+    latitude: -5.1477
+    longitude: 119.4327
+    utc_offset: 8
+    dst: false
+Ulaanbaatar:
+    latitude: 47.8864
+    longitude: 106.9057
+    utc_offset: 8
+    dst: false
+Ulan_Bator: # deprecated
+    latitude: 47.8864
+    longitude: 106.9057
+    utc_offset: 8
+    dst: false
+Urumqi:
+    latitude: 43.8256
+    longitude: 87.6168
+    utc_offset: 6
+    dst: false
+Ust_Nera:
+    latitude: 64.5667
+    longitude: 143.2000
+    utc_offset: 10
+    dst: false
+Vientiane:
+    latitude: 17.9757
+    longitude: 102.6331
+    utc_offset: 7
+    dst: false
+Vladivostok:
+    latitude: 43.1155
+    longitude: 131.8855
+    utc_offset: 10
+    dst: false
+Yakutsk:
+    latitude: 62.0355
+    longitude: 129.6755
+    utc_offset: 9
+    dst: false
+Yangon:
+    latitude: 16.8409
+    longitude: 96.1735
+    utc_offset: 6.5
+    dst: false
+Yekaterinburg:
+    latitude: 56.8389
+    longitude: 60.6057
+    utc_offset: 5
+    dst: false
+Yerevan:
+    latitude: 40.1792
+    longitude: 44.4991
+    utc_offset: 4
+    dst: false
+Iran:
+    latitude: 32.4279
+    longitude: 53.6880
+    utc_offset: 3.5
+    dst: true
+Israel:
+    latitude: 31.0461
+    longitude: 34.8516
+    utc_offset: 2
+    dst: true
+Turkey:
+    latitude: 38.9637
+    longitude: 35.2433
+    utc_offset: 3
+    dst: true

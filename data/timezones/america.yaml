@@ -1,0 +1,880 @@
+Adak:
+    latitude: 51.8833
+    longitude: -176.65
+    utc_offset: -10
+    dst: true
+Anchorage:
+    latitude: 61.2181
+    longitude: -149.9003
+    utc_offset: -9
+    dst: true
+Anguilla:
+    latitude: 18.2206
+    longitude: -63.0686
+    utc_offset: -4
+    dst: false
+Antigua:
+    latitude: 17.0747
+    longitude: -61.8175
+    utc_offset: -4
+    dst: false
+Araguaina:
+    latitude: -7.1909
+    longitude: -48.2069
+    utc_offset: -3
+    dst: false
+Buenos_Aires:
+    latitude: -34.61
+    longitude: -58.38
+    utc_offset: -3
+    dst: false
+Catamarca:
+    latitude: -28.4696
+    longitude: -65.7795
+    utc_offset: -3
+    dst: false
+Comodoro_Rivadavia:
+    latitude: -45.8667
+    longitude: -67.5
+    utc_offset: -3
+    dst: false
+Cordoba:
+    latitude: -31.4167
+    longitude: -64.1833
+    utc_offset: -3
+    dst: false
+Jujuy:
+    latitude: -24.1858
+    longitude: -65.2995
+    utc_offset: -3
+    dst: false
+La_Rioja:
+    latitude: -29.4136
+    longitude: -66.8558
+    utc_offset: -3
+    dst: false
+Mendoza:
+    latitude: -32.8908
+    longitude: -68.8272
+    utc_offset: -3
+    dst: false
+Rio_Gallegos:
+    latitude: -51.6235
+    longitude: -69.2168
+    utc_offset: -3
+    dst: false
+Salta:
+    latitude: -24.7821
+    longitude: -65.4232
+    utc_offset: -3
+    dst: false
+San_Juan:
+    latitude: -31.5375
+    longitude: -68.5364
+    utc_offset: -3
+    dst: false
+San_Luis:
+    latitude: -33.3019
+    longitude: -66.3375
+    utc_offset: -3
+    dst: false
+Tucuman:
+    latitude: -26.8083
+    longitude: -65.2176
+    utc_offset: -3
+    dst: false
+Ushuaia:
+    latitude: -54.8019
+    longitude: -68.3031
+    utc_offset: -3
+    dst: false
+Aruba:
+    latitude: 12.5211
+    longitude: -69.9683
+    utc_offset: -4
+    dst: false
+Asuncion:
+    latitude: -25.2637
+    longitude: -57.5759
+    utc_offset: -4
+    dst: false
+Atikokan:
+    latitude: 48.7596
+    longitude: -91.6385
+    utc_offset: -5
+    dst: false
+Atka:
+    latitude: 52.1997
+    longitude: -174.2064
+    utc_offset: -10
+    dst: true
+Bahia:
+    latitude: -12.9711
+    longitude: -38.5014
+    utc_offset: -3
+    dst: false
+Bahia_de_Banderas:
+    latitude: 20.7099
+    longitude: -105.2551
+    utc_offset: -6
+    dst: true
+Barbados:
+    latitude: 13.1939
+    longitude: -59.5432
+    utc_offset: -4
+    dst: false
+Belem:
+    latitude: -1.4558
+    longitude: -48.4902
+    utc_offset: -3
+    dst: false
+Belize:
+    latitude: 17.1899
+    longitude: -88.4976
+    utc_offset: -6
+    dst: false
+Blanc_Sablon:
+    latitude: 51.4167
+    longitude: -57.1333
+    utc_offset: -4
+    dst: false
+Boa_Vista:
+    latitude: 2.8125
+    longitude: -60.675
+    utc_offset: -4
+    dst: false
+Bogota:
+    latitude: 4.711
+    longitude: -74.0721
+    utc_offset: -5
+    dst: false
+Boise:
+    latitude: 43.615
+    longitude: -116.2023
+    utc_offset: -7
+    dst: true
+Cambridge_Bay:
+    latitude: 69.1081
+    longitude: -105.1381
+    utc_offset: -7
+    dst: true
+Campo_Grande:
+    latitude: -20.4428
+    longitude: -54.6464
+    utc_offset: -4
+    dst: false
+Cancun:
+    latitude: 21.1619
+    longitude: -86.8515
+    utc_offset: -5
+    dst: false
+Caracas:
+    latitude: 10.4806
+    longitude: -66.9036
+    utc_offset: -4
+    dst: false
+Cayenne:
+    latitude: 4.9224
+    longitude: -52.3135
+    utc_offset: -3
+    dst: false
+Cayman:
+    latitude: 19.3133
+    longitude: -81.2546
+    utc_offset: -5
+    dst: false
+Chicago:
+    latitude: 41.8781
+    longitude: -87.6298
+    utc_offset: -6
+    dst: true
+Chihuahua:
+    latitude: 28.6323
+    longitude: -106.0691
+    utc_offset: -7
+    dst: true
+Ciudad_Juarez:
+    latitude: 31.6904
+    longitude: -106.4245
+    utc_offset: -7
+    dst: true
+Coral_Harbour:
+    latitude: 64.1833
+    longitude: -83.3333
+    utc_offset: -5
+    dst: false
+Costa_Rica:
+    latitude: 9.7489
+    longitude: -83.7534
+    utc_offset: -6
+    dst: false
+Coyhaique:
+    latitude: -45.5722
+    longitude: -72.0683
+    utc_offset: -4
+    dst: false
+Creston:
+    latitude: 49.0996
+    longitude: -116.5176
+    utc_offset: -7
+    dst: false
+Cuiaba:
+    latitude: -15.6014
+    longitude: -56.0979
+    utc_offset: -4
+    dst: false
+Curacao:
+    latitude: 12.1696
+    longitude: -68.9900
+    utc_offset: -4
+    dst: false
+Danmarkshavn:
+    latitude: 76.7697
+    longitude: -18.6667
+    utc_offset: 0
+    dst: false
+Dawson:
+    latitude: 64.0601
+    longitude: -139.4324
+    utc_offset: -7
+    dst: true
+Dawson_Creek:
+    latitude: 55.7601
+    longitude: -120.235
+    utc_offset: -7
+    dst: true
+Denver:
+    latitude: 39.7392
+    longitude: -104.9903
+    utc_offset: -7
+    dst: true
+Detroit:
+    latitude: 42.3314
+    longitude: -83.0458
+    utc_offset: -5
+    dst: true
+Dominica:
+    latitude: 15.415
+    longitude: -61.3710
+    utc_offset: -4
+    dst: false
+Edmonton:
+    latitude: 53.5461
+    longitude: -113.4938
+    utc_offset: -7
+    dst: true
+Eirunepe:
+    latitude: -6.6628
+    longitude: -69.8806
+    utc_offset: -5
+    dst: false
+El_Salvador:
+    latitude: 13.6929
+    longitude: -89.2182
+    utc_offset: -6
+    dst: false
+Ensenada:
+    latitude: 31.8667
+    longitude: -116.5964
+    utc_offset: -8
+    dst: true
+Fort_Nelson:
+    latitude: 58.8053
+    longitude: -122.6972
+    utc_offset: -7
+    dst: false
+Fort_Wayne:
+    latitude: 41.0793
+    longitude: -85.1394
+    utc_offset: -5
+    dst: true
+Fortaleza:
+    latitude: -3.7172
+    longitude: -38.5434
+    utc_offset: -3
+    dst: false
+Glace_Bay:
+    latitude: 46.2167
+    longitude: -59.9667
+    utc_offset: -4
+    dst: true
+Godthab:
+    latitude: 64.1835
+    longitude: -51.7216
+    utc_offset: -3
+    dst: true
+Goose_Bay:
+    latitude: 53.3016
+    longitude: -60.4253
+    utc_offset: -4
+    dst: true
+Grand_Turk:
+    latitude: 21.4667
+    longitude: -71.1333
+    utc_offset: -5
+    dst: false
+Grenada:
+    latitude: 12.1165
+    longitude: -61.6790
+    utc_offset: -4
+    dst: false
+Guadeloupe:
+    latitude: 16.2650
+    longitude: -61.5510
+    utc_offset: -4
+    dst: false
+Guatemala:
+    latitude: 14.6349
+    longitude: -90.5069
+    utc_offset: -6
+    dst: false
+Guayaquil:
+    latitude: -2.1700
+    longitude: -79.9224
+    utc_offset: -5
+    dst: false
+Guyana:
+    latitude: 4.8604
+    longitude: -58.9302
+    utc_offset: -4
+    dst: false
+Halifax:
+    latitude: 44.6488
+    longitude: -63.5752
+    utc_offset: -4
+    dst: true
+Havana:
+    latitude: 23.1136
+    longitude: -82.3666
+    utc_offset: -5
+    dst: false
+Hermosillo:
+    latitude: 29.0729
+    longitude: -110.9559
+    utc_offset: -7
+    dst: true
+Indianapolis:
+    latitude: 39.7684
+    longitude: -86.1581
+    utc_offset: -5
+    dst: true
+Knox:
+    latitude: 41.3167
+    longitude: -85.4167
+    utc_offset: -5
+    dst: true
+Marengo:
+    latitude: 40.6269
+    longitude: -88.9334
+    utc_offset: -6
+    dst: true
+Petersburg:
+    latitude: 27.7706
+    longitude: -82.6403
+    utc_offset: -5
+    dst: true
+Tell_City:
+    latitude: 39.8126
+    longitude: -83.7646
+    utc_offset: -5
+    dst: true
+Vevay:
+    latitude: 38.7473
+    longitude: -85.0666
+    utc_offset: -5
+    dst: true
+Vincennes:
+    latitude: 38.6773
+    longitude: -87.5286
+    utc_offset: -5
+    dst: true
+Winamac:
+    latitude: 41.0517
+    longitude: -86.5964
+    utc_offset: -5
+    dst: true
+Inuvik:
+    latitude: 68.3600
+    longitude: -133.7200
+    utc_offset: -7
+    dst: true
+Iqaluit:
+    latitude: 63.7467
+    longitude: -68.5167
+    utc_offset: -5
+    dst: true
+Jamaica:
+    latitude: 18.1096
+    longitude: -77.2975
+    utc_offset: -5
+    dst: false
+Juneau:
+    latitude: 58.3019
+    longitude: -134.4197
+    utc_offset: -9
+    dst: true
+Louisville:
+    latitude: 38.2527
+    longitude: -85.7585
+    utc_offset: -5
+    dst: true
+Monticello:
+    latitude: 40.0397
+    longitude: -86.6169
+    utc_offset: -5
+    dst: true
+Kralendijk:
+    latitude: 12.1500
+    longitude: -68.2667
+    utc_offset: -4
+    dst: false
+La_Paz:
+    latitude: -16.5000
+    longitude: -68.1500
+    utc_offset: -4
+    dst: false
+Lima:
+    latitude: -12.0464
+    longitude: -77.0428
+    utc_offset: -5
+    dst: false
+Los_Angeles:
+    latitude: 34.0522
+    longitude: -118.2437
+    utc_offset: -8
+    dst: true
+Lower_Princes:
+    latitude: 17.3000
+    longitude: -62.7333
+    utc_offset: -4
+    dst: false
+Maceio:
+    latitude: -9.6658
+    longitude: -35.7350
+    utc_offset: -3
+    dst: false
+Managua:
+    latitude: 12.1364
+    longitude: -86.2514
+    utc_offset: -6
+    dst: false
+Manaus:
+    latitude: -3.1190
+    longitude: -60.0217
+    utc_offset: -4
+    dst: false
+Marigot:
+    latitude: 18.0736
+    longitude: -63.0822
+    utc_offset: -4
+    dst: false
+Martinique:
+    latitude: 14.6415
+    longitude: -60.9875
+    utc_offset: -4
+    dst: false
+Matamoros:
+    latitude: 25.8694
+    longitude: -97.5022
+    utc_offset: -6
+    dst: false
+Mazatlan:
+    latitude: 23.2494
+    longitude: -106.4111
+    utc_offset: -7
+    dst: true
+Menominee:
+    latitude: 45.1072
+    longitude: -87.6142
+    utc_offset: -6
+    dst: true
+Merida:
+    latitude: 20.9674
+    longitude: -89.5926
+    utc_offset: -6
+    dst: true
+Metlakatla:
+    latitude: 55.1267
+    longitude: -131.5764
+    utc_offset: -9
+    dst: true
+Mexico_City:
+    latitude: 19.4326
+    longitude: -99.1332
+    utc_offset: -6
+    dst: true
+Miquelon:
+    latitude: 47.1167
+    longitude: -56.2333
+    utc_offset: -3
+    dst: true
+Moncton:
+    latitude: 46.0878
+    longitude: -64.7782
+    utc_offset: -4
+    dst: true
+Monterrey:
+    latitude: 25.6866
+    longitude: -100.3161
+    utc_offset: -6
+    dst: true
+Montevideo:
+    latitude: -34.9011
+    longitude: -56.1645
+    utc_offset: -3
+    dst: false
+Montreal:
+    latitude: 45.5017
+    longitude: -73.5673
+    utc_offset: -5
+    dst: true
+Montserrat:
+    latitude: 16.7425
+    longitude: -62.1874
+    utc_offset: -4
+    dst: false
+Nassau:
+    latitude: 25.0343
+    longitude: -77.3963
+    utc_offset: -5
+    dst: false
+New_York:
+    latitude: 40.7128
+    longitude: -74.0060
+    utc_offset: -5
+    dst: true
+Nipigon:
+    latitude: 49.0167
+    longitude: -88.2667
+    utc_offset: -5
+    dst: true
+Nome:
+    latitude: 64.5011
+    longitude: -165.4064
+    utc_offset: -9
+    dst: true
+Noronha:
+    latitude: -3.8480
+    longitude: -32.4167
+    utc_offset: -2
+    dst: false
+Beulah:
+    latitude: 44.3759
+    longitude: -73.2121
+    utc_offset: -5
+    dst: true
+North_Dakota_Center:
+    latitude: 47.1017
+    longitude: -100.7837
+    utc_offset: -6
+    dst: true
+New_Salem:
+    latitude: 46.8450
+    longitude: -100.7044
+    utc_offset: -6
+    dst: true
+Nuuk:
+    latitude: 64.1835
+    longitude: -51.7216
+    utc_offset: -3
+    dst: true
+Ojinaga:
+    latitude: 29.5606
+    longitude: -104.4064
+    utc_offset: -7
+    dst: true
+Panama:
+    latitude: 8.9824
+    longitude: -79.5199
+    utc_offset: -5
+    dst: false
+Pangnirtung:
+    latitude: 66.1450
+    longitude: -65.7122
+    utc_offset: -5
+    dst: true
+Paramaribo:
+    latitude: 5.8520
+    longitude: -55.2038
+    utc_offset: -3
+    dst: false
+Phoenix:
+    latitude: 33.4484
+    longitude: -112.0740
+    utc_offset: -7
+    dst: false
+Port_of_Spain:
+    latitude: 10.6549
+    longitude: -61.5019
+    utc_offset: -4
+    dst: false
+Port_au_Prince:
+    latitude: 18.5944
+    longitude: -72.3074
+    utc_offset: -5
+    dst: false
+Porto_Acre:
+    latitude: -9.9747
+    longitude: -67.8249
+    utc_offset: -5
+    dst: false
+Porto_Velho:
+    latitude: -8.7608
+    longitude: -63.9039
+    utc_offset: -4
+    dst: false
+Puerto_Rico:
+    latitude: 18.2208
+    longitude: -66.5901
+    utc_offset: -4
+    dst: false
+Punta_Arenas:
+    latitude: -53.1638
+    longitude: -70.9171
+    utc_offset: -3
+    dst: false
+Rainy_River:
+    latitude: 48.7200
+    longitude: -94.6000
+    utc_offset: -6
+    dst: true
+Rankin_Inlet:
+    latitude: 62.8110
+    longitude: -92.0850
+    utc_offset: -6
+    dst: true
+Recife:
+    latitude: -8.0476
+    longitude: -34.8770
+    utc_offset: -3
+    dst: false
+Regina:
+    latitude: 50.4452
+    longitude: -104.6189
+    utc_offset: -6
+    dst: true
+Resolute:
+    latitude: 74.7167
+    longitude: -94.9667
+    utc_offset: -6
+    dst: true
+Rio_Branco:
+    latitude: -9.9747
+    longitude: -67.8249
+    utc_offset: -5
+    dst: false
+Rosario:
+    latitude: -32.9468
+    longitude: -60.6393
+    utc_offset: -3
+    dst: false
+Santa_Isabel:
+    latitude: 19.5469
+    longitude: -99.2036
+    utc_offset: -6
+    dst: true
+Santarem:
+    latitude: -2.4382
+    longitude: -54.6996
+    utc_offset: -3
+    dst: false
+Santiago:
+    latitude: -33.4489
+    longitude: -70.6693
+    utc_offset: -4
+    dst: false
+Santo_Domingo:
+    latitude: 18.4861
+    longitude: -69.9312
+    utc_offset: -4
+    dst: false
+Sao_Paulo:
+    latitude: -23.5505
+    longitude: -46.6333
+    utc_offset: -3
+    dst: false
+Scoresbysund:
+    latitude: 70.4864
+    longitude: -21.9667
+    utc_offset: 0
+    dst: false
+Sitka:
+    latitude: 57.0531
+    longitude: -135.3300
+    utc_offset: -9
+    dst: true
+St_Barthelemy:
+    latitude: 17.8964
+    longitude: -62.8500
+    utc_offset: -4
+    dst: false
+St_Johns:
+    latitude: 47.5615
+    longitude: -52.7126
+    utc_offset: -3.5
+    dst: true
+St_Kitts:
+    latitude: 17.3578
+    longitude: -62.782998
+    utc_offset: -4
+    dst: false
+St_Lucia:
+    latitude: 13.9094
+    longitude: -60.9789
+    utc_offset: -4
+    dst: false
+St_Thomas:
+    latitude: 18.3419
+    longitude: -64.9307
+    utc_offset: -4
+    dst: false
+St_Vincent:
+    latitude: 13.1600
+    longitude: -61.2249
+    utc_offset: -4
+    dst: false
+Swift_Current:
+    latitude: 50.2833
+    longitude: -107.7972
+    utc_offset: -6
+    dst: true
+Tegucigalpa:
+    latitude: 14.0723
+    longitude: -87.1921
+    utc_offset: -6
+    dst: true
+Thule:
+    latitude: 76.5312
+    longitude: -68.7031
+    utc_offset: -4
+    dst: true
+Thunder_Bay:
+    latitude: 48.3809
+    longitude: -89.2477
+    utc_offset: -5
+    dst: true
+Tijuana:
+    latitude: 32.5149
+    longitude: -117.0382
+    utc_offset: -8
+    dst: true
+Toronto:
+    latitude: 43.65107
+    longitude: -79.347015
+    utc_offset: -5
+    dst: true
+Tortola:
+    latitude: 18.4207
+    longitude: -64.6400
+    utc_offset: -4
+    dst: false
+Vancouver:
+    latitude: 49.2827
+    longitude: -123.1207
+    utc_offset: -8
+    dst: true
+Virgin:
+    latitude: 18.3358
+    longitude: -64.8963
+    utc_offset: -4
+    dst: false
+Whitehorse:
+    latitude: 60.7212
+    longitude: -135.0520
+    utc_offset: -7
+    dst: true
+Winnipeg:
+    latitude: 49.8951
+    longitude: -97.1384
+    utc_offset: -6
+    dst: true
+Yakutat:
+    latitude: 59.5469
+    longitude: -139.7274
+    utc_offset: -9
+    dst: true
+Yellowknife:
+    latitude: 62.4540
+    longitude: -114.3718
+    utc_offset: -7
+    dst: true
+Acre:
+    latitude: -9.9747
+    longitude: -67.8249
+    utc_offset: -5
+    dst: false
+Fernando_de_Noronha:
+    latitude: -3.8480
+    longitude: -32.4167
+    utc_offset: -2
+    dst: false
+Newfoundland:
+    latitude: 47.5615
+    longitude: -52.7126
+    utc_offset: -3.5
+    dst: true
+Saskatchewan:
+    latitude: 50.4452
+    longitude: -104.6189
+    utc_offset: -6
+    dst: true
+Yukon:
+    latitude: 60.7212
+    longitude: -135.0520
+    utc_offset: -7
+    dst: true
+Cuba:
+    latitude: 21.5218
+    longitude: -77.7812
+    utc_offset: -5
+    dst: false
+Navajo:
+    latitude: 36.1069
+    longitude: -112.1129
+    utc_offset: -7
+    dst: true
+Arizona:
+    latitude: 33.4484
+    longitude: -112.0740
+    utc_offset: -7
+    dst: false
+Aleutian:
+    latitude: 51.8833
+    longitude: -176.65
+    utc_offset: -10
+    dst: true
+Alaska:
+    latitude: 61.2181
+    longitude: -149.9003
+    utc_offset: -9
+    dst: true
+East-Indiana:
+    latitude: 39.7684
+    longitude: -86.1581
+    utc_offset: -5
+    dst: true
+Indiana-Starke:
+    latitude: 41.0597
+    longitude: -86.6197
+    utc_offset: -5
+    dst: true
+Hawaii:
+    latitude: 21.3069
+    longitude: -157.8583
+    utc_offset: -10
+    dst: false
+Michigan:
+    latitude: 42.3314
+    longitude: -83.0458
+    utc_offset: -5
+    dst: true
+Rockies_Mountain:
+    latitude: 39.7392
+    longitude: -104.9903
+    utc_offset: -7
+    dst: true
+Samoa:
+    latitude: -13.7590
+    longitude: -172.1046
+    utc_offset: -11
+    dst: false

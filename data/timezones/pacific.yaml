@@ -1,0 +1,255 @@
+Apia:
+    latitude: -13.8333
+    longitude: -171.8558
+    utc_offset: 13
+    dst: false
+Auckland:
+    latitude: -36.8485
+    longitude: 174.7633
+    utc_offset: 12
+    dst: true
+Bougainville:
+    latitude: -6.2167
+    longitude: 155.5667
+    utc_offset: 11
+    dst: false
+Chatham:
+    latitude: -43.95
+    longitude: -176.5667
+    utc_offset: 12.75
+    dst: true
+Chuuk:
+    latitude: 7.4167
+    longitude: 151.7833
+    utc_offset: 10
+    dst: false
+Easter:
+    latitude: -27.1127
+    longitude: -109.3497
+    utc_offset: -6
+    dst: false
+Efate:
+    latitude: -17.7333
+    longitude: 168.3167
+    utc_offset: 11
+    dst: false
+Enderbury:
+    latitude: 3.125
+    longitude: -171.9333
+    utc_offset: -12
+    dst: false
+Fakaofo:
+    latitude: -9.3667
+    longitude: -171.2333
+    utc_offset: 13
+    dst: false
+Fiji:
+    latitude: -17.7134
+    longitude: 178.0651
+    utc_offset: 12
+    dst: true
+Funafuti:
+    latitude: -8.5167
+    longitude: 179.2167
+    utc_offset: 12
+    dst: false
+Galapagos:
+    latitude: -0.9538
+    longitude: -90.9656
+    utc_offset: -6
+    dst: false
+Guadalcanal:
+    latitude: -9.4333
+    longitude: 160.1833
+    utc_offset: 11
+    dst: false
+Guam:
+    latitude: 13.4442
+    longitude: 144.7937
+    utc_offset: 10
+    dst: false
+Honolulu:
+    latitude: 21.3069
+    longitude: -157.8583
+    utc_offset: -10
+    dst: false
+Johnston:
+    latitude: 16.7292
+    longitude: -169.5333
+    utc_offset: -10
+    dst: false
+Kanton:
+    latitude: -2.8333
+    longitude: -171.6333
+    utc_offset: -11
+    dst: false
+Kiritimati:
+    latitude: 1.8745
+    longitude: -157.4017
+    utc_offset: 14
+    dst: false
+Kiribati:
+    latitude: 1.9862
+    longitude: -157.3480
+    utc_offset: 14
+    dst: false
+Kosrae:
+    latitude: 5.3333
+    longitude: 162.9833
+    utc_offset: 11
+    dst: false
+Kwajalein:
+    latitude: 8.7167
+    longitude: 167.7333
+    utc_offset: 12
+    dst: false
+Majuro:
+    latitude: 7.1164
+    longitude: 171.1856
+    utc_offset: 12
+    dst: false
+Marquesas:
+    latitude: -9.9333
+    longitude: -139.0333
+    utc_offset: -9.5
+    dst: false
+Midway:
+    latitude: 28.2000
+    longitude: -177.3500
+    utc_offset: -11
+    dst: false
+Nauru:
+    latitude: -0.5228
+    longitude: 166.9315
+    utc_offset: 12
+    dst: false
+Niue:
+    latitude: -19.0333
+    longitude: -169.8667
+    utc_offset: -11
+    dst: false
+Norfolk:
+    latitude: -29.0333
+    longitude: 167.9500
+    utc_offset: 11
+    dst: true
+Noumea:
+    latitude: -22.2758
+    longitude: 166.4580
+    utc_offset: 11
+    dst: false
+Pago_Pago:
+    latitude: -14.2756
+    longitude: -170.7020
+    utc_offset: -11
+    dst: false
+Palau:
+    latitude: 7.5000
+    longitude: 134.6242
+    utc_offset: 9
+    dst: false
+Pitcairn:
+    latitude: -25.0667
+    longitude: -130.1000
+    utc_offset: -8
+    dst: false
+Pohnpei:
+    latitude: 6.9833
+    longitude: 158.2167
+    utc_offset: 11
+    dst: false
+Ponape:
+    latitude: 6.9833
+    longitude: 158.2167
+    utc_offset: 11
+    dst: false
+Port_Vila:
+    latitude: -17.7333
+    longitude: 168.3167
+    utc_offset: 11
+    dst: false
+Port_Moresby:
+    latitude: -9.4431
+    longitude: 147.1803
+    utc_offset: 10
+    dst: false
+Rarotonga:
+    latitude: -21.2290
+    longitude: -159.7765
+    utc_offset: -10
+    dst: false
+Saipan:
+    latitude: 15.1776
+    longitude: 145.7500
+    utc_offset: 10
+    dst: false
+Tahiti:
+    latitude: -17.6509
+    longitude: -149.4260
+    utc_offset: -10
+    dst: false
+Tarawa:
+    latitude: 1.4518
+    longitude: 172.9717
+    utc_offset: 12
+    dst: false
+Tongatapu:
+    latitude: -21.1394
+    longitude: -175.2018
+    utc_offset: 13
+    dst: true
+Truk:
+    latitude: 7.4167
+    longitude: 151.7833
+    utc_offset: 10
+    dst: false
+Wake:
+    latitude: 19.2820
+    longitude: 166.6390
+    utc_offset: 12
+    dst: false
+Wallis:
+    latitude: -13.3000
+    longitude: -176.2000
+    utc_offset: 12
+    dst: false
+Yap:
+    latitude: 9.5000
+    longitude: 138.0833
+    utc_offset: 10
+    dst: false
+Palmerston:
+    latitude: -18.0417
+    longitude: -163.1833
+    utc_offset: -10
+    dst: false
+Rothera:
+    latitude: -67.5681
+    longitude: -68.1258
+    utc_offset: -3
+    dst: false
+Stanley:
+    latitude: -51.6941
+    longitude: -57.8510
+    utc_offset: -3
+    dst: false
+Tahaa:
+    latitude: -16.6833
+    longitude: -151.5000
+    utc_offset: -10
+    dst: false
+Tubuai:
+    latitude: -23.3833
+    longitude: -149.4333
+    utc_offset: -10
+    dst: false
+Vostok:
+    latitude: -78.4644
+    longitude: 106.8320
+    utc_offset: 6
+    dst: false
+Wellington:
+    latitude: -41.2865
+    longitude: 174.7762
+    utc_offset: 12
+    dst: true

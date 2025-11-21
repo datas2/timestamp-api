@@ -1,0 +1,10 @@
+Longyearbyen:
+    latitude: 78.2232
+    longitude: 15.6469
+    utc_offset: 1
+    dst: true
+Svalbard:
+    latitude: 77.5536
+    longitude: 23.6703
+    utc_offset: 1
+    dst: true

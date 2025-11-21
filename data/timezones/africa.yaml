@@ -1,0 +1,280 @@
+Abidjan:
+    latitude: 5.31667
+    longitude: -4.03333
+    utc_offset: 0
+    dst: false
+Accra:
+    latitude: 5.60389
+    longitude: -0.18778
+    utc_offset: 0
+    dst: false
+Addis_Ababa:
+    latitude: 9.03
+    longitude: 38.74
+    utc_offset: 3
+    dst: false
+Algiers:
+    latitude: 36.75278
+    longitude: 3.04222
+    utc_offset: 1
+    dst: false
+Asmara:
+    latitude: 15.32292
+    longitude: 38.9251
+    utc_offset: 3
+    dst: false
+Asmera:
+    latitude: 15.32292
+    longitude: 38.9251
+    utc_offset: 3
+    dst: false
+Bamako:
+    latitude: 12.63923
+    longitude: -8.00289
+    utc_offset: 0
+    dst: false
+Bangui:
+    latitude: 4.36122
+    longitude: 18.55496
+    utc_offset: 1
+    dst: false
+Banjul:
+    latitude: 13.45488
+    longitude: -16.57903
+    utc_offset: 0
+    dst: false
+Bissau:
+    latitude: 11.86362
+    longitude: -15.59766
+    utc_offset: 0
+    dst: false
+Blantyre:
+    latitude: -15.78611
+    longitude: 35.00583
+    utc_offset: 2
+    dst: false
+Brazzaville:
+    latitude: -4.26336
+    longitude: 15.24288
+    utc_offset: 1
+    dst: false
+Bujumbura:
+    latitude: -3.36156
+    longitude: 29.35988
+    utc_offset: 2
+    dst: false
+Cairo:
+    latitude: 30.04442
+    longitude: 31.23571
+    utc_offset: 2
+    dst: true
+Casablanca:
+    latitude: 33.57311
+    longitude: -7.58984
+    utc_offset: 1
+    dst: true
+Ceuta:
+    latitude: 35.88944
+    longitude: -5.32111
+    utc_offset: 1
+    dst: true
+Conakry:
+    latitude: 9.64118
+    longitude: -13.57848
+    utc_offset: 0
+    dst: false
+Dakar:
+    latitude: 14.69278
+    longitude: -17.44667
+    utc_offset: 0
+    dst: false
+Dar_es_Salaam:
+    latitude: -6.79235
+    longitude: 39.20833
+    utc_offset: 3
+    dst: false
+Djibouti:
+    latitude: 11.57208
+    longitude: 43.14503
+    utc_offset: 3
+    dst: false
+Douala:
+    latitude: 4.05139
+    longitude: 9.76794
+    utc_offset: 1
+    dst: false
+El_Aaiun:
+    latitude: 27.15319
+    longitude: -13.20344
+    utc_offset: 1
+    dst: false
+Freetown:
+    latitude: 8.46567
+    longitude: -13.23172
+    utc_offset: 0
+    dst: false
+Gaborone:
+    latitude: -24.62821
+    longitude: 25.92315
+    utc_offset: 2
+    dst: false
+Harare:
+    latitude: -17.82922
+    longitude: 31.05222
+    utc_offset: 2
+    dst: false
+Johannesburg:
+    latitude: -26.20444
+    longitude: 28.04556
+    utc_offset: 2
+    dst: false
+Juba:
+    latitude: 4.85936
+    longitude: 31.57125
+    utc_offset: 2
+    dst: false
+Kampala:
+    latitude: 0.31361
+    longitude: 32.58111
+    utc_offset: 3
+    dst: false
+Khartoum:
+    latitude: 15.50066
+    longitude: 32.55999
+    utc_offset: 2
+    dst: false
+Kigali:
+    latitude: -1.94407
+    longitude: 30.06189
+    utc_offset: 2
+    dst: false
+Kinshasa:
+    latitude: -4.44193
+    longitude: 15.26629
+    utc_offset: 1
+    dst: false
+Lagos:
+    latitude: 6.52438
+    longitude: 3.37921
+    utc_offset: 1
+    dst: false
+Libreville:
+    latitude: 0.39009
+    longitude: 9.45444
+    utc_offset: 1
+    dst: false
+Lome:
+    latitude: 6.1725
+    longitude: 1.23139
+    utc_offset: 0
+    dst: false
+Luanda:
+    latitude: -8.83918
+    longitude: 13.28944
+    utc_offset: 1
+    dst: false
+Lubumbashi:
+    latitude: -11.68719
+    longitude: 27.47942
+    utc_offset: 2
+    dst: false
+Lusaka:
+    latitude: -15.38753
+    longitude: 28.32282
+    utc_offset: 2
+    dst: false
+Malabo:
+    latitude: 3.75001
+    longitude: 8.78333
+    utc_offset: 1
+    dst: false
+Maputo:
+    latitude: -25.96916
+    longitude: 32.57322
+    utc_offset: 2
+    dst: false
+Maseru:
+    latitude: -29.31583
+    longitude: 27.48544
+    utc_offset: 2
+    dst: false
+Mbabane:
+    latitude: -26.30544
+    longitude: 31.13667
+    utc_offset: 2
+    dst: false
+Mogadishu:
+    latitude: 2.04693
+    longitude: 45.31816
+    utc_offset: 3
+    dst: false
+Monrovia:
+    latitude: 6.31558
+    longitude: -10.8074
+    utc_offset: 0
+    dst: false
+Nairobi:
+    latitude: -1.28639
+    longitude: 36.81722
+    utc_offset: 3
+    dst: false
+Ndjamena:
+    latitude: 12.13484
+    longitude: 15.05574
+    utc_offset: 1
+    dst: false
+Niamey:
+    latitude: 13.51159
+    longitude: 2.12539
+    utc_offset: 1
+    dst: false
+Nouakchott:
+    latitude: 18.07353
+    longitude: -15.95824
+    utc_offset: 0
+    dst: false
+Ouagadougou:
+    latitude: 12.37143
+    longitude: -1.51966
+    utc_offset: 0
+    dst: false
+Porto_Novo:
+    latitude: 6.49646
+    longitude: 2.60359
+    utc_offset: 1
+    dst: false
+Sao_Tome:
+    latitude: 0.33654
+    longitude: 6.72732
+    utc_offset: 0
+    dst: false
+Timbuktu:
+    latitude: 16.76667
+    longitude: -3.00267
+    utc_offset: 0
+    dst: false
+Tripoli:
+    latitude: 32.88721
+    longitude: 13.19132
+    utc_offset: 2
+    dst: false
+Tunis:
+    latitude: 36.80649
+    longitude: 10.18153
+    utc_offset: 1
+    dst: false
+Windhoek:
+    latitude: -22.55972
+    longitude: 17.08323
+    utc_offset: 2
+    dst: false
+Egypt:
+    latitude: 30.04442
+    longitude: 31.23571
+    utc_offset: 2
+    dst: true
+Libya:
+    latitude: 32.88721
+    longitude: 13.19132
+    utc_offset: 2
+    dst: false

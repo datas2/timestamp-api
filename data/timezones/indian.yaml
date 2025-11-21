@@ -1,0 +1,60 @@
+Antananarivo:
+    latitude: -18.8792
+    longitude: 47.5079
+    utc_offset: 3
+    dst: false
+Chagos:
+    latitude: -7.3297
+    longitude: 72.4106
+    utc_offset: 6
+    dst: false
+Christmas:
+    latitude: -10.4475
+    longitude: 105.6904
+    utc_offset: 7
+    dst: false
+Cocos:
+    latitude: -12.1642
+    longitude: 96.8705
+    utc_offset: 6.5
+    dst: false
+Comoro:
+    latitude: -11.6455
+    longitude: 43.3333
+    utc_offset: 3
+    dst: false
+Kerguelen:
+    latitude: -49.2800
+    longitude: 69.3481
+    utc_offset: 5
+    dst: false
+Mahe:
+    latitude: -4.6828
+    longitude: 55.4920
+    utc_offset: 4
+    dst: false
+Maldives:
+    latitude: 3.2028
+    longitude: 73.2207
+    utc_offset: 5
+    dst: false
+Mauritius:
+    latitude: -20.3484
+    longitude: 57.5522
+    utc_offset: 4
+    dst: false
+Mayotte:
+    latitude: -12.8275
+    longitude: 45.1662
+    utc_offset: 3
+    dst: false
+Reunion:
+    latitude: -21.1151
+    longitude: 55.5364
+    utc_offset: 4
+    dst: false
+Seychelles:
+    latitude: -4.6796
+    longitude: 55.4920
+    utc_offset: 4
+    dst: false

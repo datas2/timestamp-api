@@ -1,0 +1,60 @@
+Casey:
+    latitude: -66.2833
+    longitude: 110.5333
+    utc_offset: 0
+    dst: false
+Davis:
+    latitude: -68.5767
+    longitude: 77.9674
+    utc_offset: 7
+    dst: false
+Dumont_d_Urville:
+    latitude: -66.6581
+    longitude: 140.0014
+    utc_offset: 10
+    dst: false
+Macquarie:
+    latitude: -54.4974
+    longitude: 158.9542
+    utc_offset: 11
+    dst: false
+Mawson:
+    latitude: -67.6027
+    longitude: 62.8738
+    utc_offset: 5
+    dst: false
+McMurdo:
+    latitude: -77.8419
+    longitude: 166.6863
+    utc_offset: 12
+    dst: false
+Palmer:
+    latitude: -64.7751
+    longitude: -64.0531
+    utc_offset: -3
+    dst: false
+Rothera:
+    latitude: -67.5681
+    longitude: -68.1258
+    utc_offset: -3
+    dst: false
+South_Pole:
+    latitude: -90.0
+    longitude: 0.0
+    utc_offset: 0
+    dst: false
+Syowa:
+    latitude: -69.0064
+    longitude: 39.5817
+    utc_offset: 3
+    dst: false
+Troll:
+    latitude: -72.0114
+    longitude: 2.5353
+    utc_offset: 0
+    dst: false
+Vostok:
+    latitude: -78.4644
+    longitude: 106.8328
+    utc_offset: 6
+    dst: false
