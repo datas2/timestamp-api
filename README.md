@@ -1,6 +1,6 @@
 # timezone-api
 
-A FastAPI microservice for timezone and city lookup, region bounding, and geospatial queries.
+A FastAPI microservice for timezone and city lookup, region bounding, and geospatial queries. This API is a public utility. It may change or be discontinued without notice.
 
 ---
 
