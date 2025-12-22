@@ -26,14 +26,14 @@ run-fastapi:
 
 # docker commands
 build-docker:
-	docker build -t xml-to-json-api .
+	docker build -t timestamp-api .
 
 run-docker:
-	docker run -d -p 8000:8000 --name xml-to-json-api xml-to-json-api
+	docker run -d -p 8000:8000 --name timestamp-api timestamp-api
 
 stop-docker:
-	docker stop xml-to-json-api
-	docker rm xml-to-json-api
+	docker stop timestamp-api
+	docker rm timestamp-api
 
 # cloudrun commands
 login-artifact-registry:
