@@ -36,9 +36,25 @@ stop-docker:
 	docker rm xml-to-json-api
 
 # cloudrun commands
+login-artifact-registry:
+	gcloud auth configure-docker us-central1-docker.pkg.dev
+
+build-image:
+	docker buildx build --platform linux/amd64 -t us-central1-docker.pkg.dev/<project_id>/timestamp-api/api .
+
+
+create-repository:
+	gcloud artifacts repositories create timestamp-api \
+		--repository-format=docker \
+		--location=us-central1 \
+		--description="Docker repository for Timestamp API"
+
+push-image:
+	docker push us-central1-docker.pkg.dev/<project_id>/timestamp-api/api
+
 deploy-cloudrun:
 	gcloud run deploy timestamp-api \
-		--image us-central1-docker.pkg.dev/project-c81c4edd-4dfa-4b1c-bf8/timestamp-api/api \
+		--image us-central1-docker.pkg.dev/<project_id>/timestamp-api/api \
 		--region us-central1 \
 		--set-env-vars API_KEY=<your_api_key_here> \
 		--memory 256Mi \

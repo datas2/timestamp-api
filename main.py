@@ -35,6 +35,10 @@ def require_api_key(x_api_key: str = Header(..., alias="X-API-KEY")):
         )
 
 # Include routers
+@app.get("/")
+def root():
+    return {"message": "Timestamp API is running!"}
+
 app.include_router(status.router)
 app.include_router(
     timezone.router,
